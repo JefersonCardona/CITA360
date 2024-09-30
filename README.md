@@ -1,4 +1,4 @@
-![CITA360](https://github.com/user-attachments/assets/b6769ccd-e3a0-4a4b-b68e-d6c81ee79b9d)
+![CITA360](https://github.com/user-attachments/assets/1ca5ece4-7758-4034-9c5c-e410ea034f56)
 
 # NOMBRE DEL PROYECTO Y DETALLES
 Cita360 es un proyecto orientado a la gestión y control eficiente de citas en una EPS, optimizando la asignación de turnos, mejorando la experiencia de los usuarios y facilitando la administración de los recursos de salud. El sistema busca centralizar y agilizar el proceso de programación de citas, adaptándose a las necesidades de pacientes y personal médico.
@@ -83,4 +83,6 @@ Si el usuario no tiene una cita programada para ese día, el sistema le mostrar�
 - Realizar la entrega final del software en GitHub.
 - Preparar una presentación para explicar el funcionamiento y los resultados del proyecto.
 
-![Diagrama de Gantt](https://github.com/user-attachments/assets/2092c425-89db-4cc1-acbf-0f3cf2da4f2d)
+![Diagrama de Gantt](https://github.com/user-attachments/assets/05ce2ae8-1333-4f4c-82bf-abeca3545560)
+
+
